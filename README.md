@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshagit31&label=Profile%20views&color=0e75b6&style=flat" alt="yshagit31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yshagit31" alt="yshagit31" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shashank255722" target="blank"><img src="https://img.shields.io/twitter/follow/shashank255722?logo=twitter&style=for-the-badge" alt="shashank255722" /></a> </p>
 
 - 🔭 I’m currently working on **Three.js Portfolio**
