@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg" alt="MasterHead" width="1000"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" alt="Animated gif" align="right" width="800">
