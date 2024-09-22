@@ -1,4 +1,6 @@
-![MasterHead](https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
+<p align="center">
+  <img src="https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg" alt="MasterHead" width="1000"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
