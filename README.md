@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Three.js Portfolio**
 
-- 🌱 I’m currently learning **Node.js, Three.js**
+- 🌱 I’m currently learning **Node.js, Express.js Three.js**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
