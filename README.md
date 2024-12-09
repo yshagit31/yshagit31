@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Fullstack developer from India</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" alt="Animated gif" align="right" width="800">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yshagit31&label=Profile%20views&color=0e75b6&style=flat" alt="yshagit31" /> </p>
