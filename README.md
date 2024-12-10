@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Solana Development**
 
-- 💬 Ask me about **React, Node, MongoDB, Bootstrap, TailwindCSS,**
+- 💬 Ask me about **React, Node, MongoDB, Bootstrap, Material UI, TailwindCSS,**
 
 - 📫 How to reach me **yshashank024@gmail.com**
 
