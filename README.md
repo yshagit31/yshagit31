@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **yshashank024@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YgiAgD0fn3QTPaPo2XjZE00NvO5VB-pu/view?usp=sharing](https://drive.google.com/file/d/1YgiAgD0fn3QTPaPo2XjZE00NvO5VB-pu/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shashank255722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashank255722" height="30" width="40" /></a>
