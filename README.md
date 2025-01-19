@@ -1,9 +1,10 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Shashank+!;+A+Fullstack+Developer" />
-</h1>
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=yshagit31&label=Profile%20views&color=0e75b6&style=flat" alt="yshagit31" /> 
 </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Shashank+!;+A+Fullstack+Developer" />
+</h1>
 
 <p align="right">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" alt="Animated gif" width="800">
@@ -51,10 +52,13 @@
 <hr/>
 <h3 align="center">⚡ Stats ⚡</h3>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yshagit31&theme=react&card_width=390" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yshagit31&theme=react&card_width=390" alt="GitHub Streak" />
+  </a>
+  <br/><br/> <!-- This adds a gap between the two images -->
   <img src="https://github-readme-stats.vercel.app/api?username=yshagit31&theme=react&card_width=390&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/>
 </div>
+
 
 
 <br/><br/>
