@@ -8,7 +8,6 @@
 <p align="right">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" alt="Animated gif" width="800">
 </p>
-
 <h3 align="center">Blockchain Enthusiast | Problem Solver | Tech Explorer</h3>
 
 - 🔭 I’m currently working on **Three.js Portfolio**
@@ -22,7 +21,8 @@
 - 💬 Ask me about **React, Node, MongoDB, APIs, Bootstrap, TailwindCSS**
 
 - 📫 How to reach me **yshashank024@gmail.com**
-
+  
+<hr/>
 <div align="center">
   <h3>Connect with me:</h3>
   
@@ -42,21 +42,20 @@
   </p>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongodb,javascript,html,css,git,materialui,websocket,jwt" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,firebase,tailwind,arduino,bootstrap,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongodb,javascript,html,css,git,materialui" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,firebase,tailwind,arduino,bootstrap,postman,vscode,github" /><br>
+</div>
+<br/><br/>
+<hr/>
+<h3 align="center">⚡ Stats ⚡</h3>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yshagit31&theme=react&card_width=390" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yshagit31&theme=react&card_width=390&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <br/>
 </div>
 
-<br/>
+
+<br/><br/>
 <hr/>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yshagit31&show_icons=true&locale=en&layout=compact" alt="yshagit31" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yshagit31&show_icons=true&locale=en" alt="yshagit31" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yshagit31&" alt="yshagit31" /></p>
