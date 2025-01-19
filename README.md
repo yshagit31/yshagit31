@@ -1,13 +1,13 @@
-<p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=yshagit31&label=Profile%20views&color=0e75b6&style=flat" alt="yshagit31" /> 
-</p>
 
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Shashank+!;+A+Fullstack+Developer" />
-</h1>
-
+</h3>
+<hr/>
 <p align="right">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" alt="Animated gif" width="800">
+</p>
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=yshagit31&label=Profile%20views&color=0e75b6&style=flat" alt="yshagit31" /> 
 </p>
 <h3 align="center">Blockchain Enthusiast | Problem Solver | Tech Explorer</h3>
 
