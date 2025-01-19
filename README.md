@@ -3,7 +3,7 @@
 </h1>
 <br></br>
 <p align="right">
-    <img src="./assests/Banner4.webp" alt="Banner Image" width="800" height="400">
+    <img src="./assests/Banner4.webp" alt="Banner Image" width="800" height="600">
 </p>
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=yshagit31&label=Profile%20views&color=0e75b6&style=flat" alt="yshagit31" /> 
