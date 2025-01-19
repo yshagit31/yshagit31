@@ -37,7 +37,7 @@
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0060B1?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100" />
     </a>
     <!-- Gmail -->
-    <a href="mailto:yshashank024@gmail.com" target="_blank">
+    <a href="mailto:yshashank024@gmail.com">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="100" />
     </a>
   </p>
