@@ -50,16 +50,13 @@
 </div>
 <br/><br/>
 <hr/>
+
 <h3 align="center">⚡ Stats ⚡</h3>
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yshagit31&theme=react&card_width=390" alt="GitHub Streak" />
-  </a>
-  <br/><br/> <!-- This adds a gap between the two images -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yshagit31&theme=react&card_width=390" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=yshagit31&theme=react&card_width=390&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <br/>
 </div>
-
-
 
 <br/><br/>
 <hr/>
