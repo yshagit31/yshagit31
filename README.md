@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Solana Development**
 
-- 💬 Ask me about **React.js, Node.js, MongoDB, API**
+- 💬 Ask me about **React.js, Node.js, MongoDB**
 
 - 📫 How to reach me **yshashank024@gmail.com**
   
