@@ -3,7 +3,7 @@
 </h1>
 <br></br>
 <p align="right">
-    <img src="./assests/Banner4.webp" alt="Banner Image" width="856" height="680">
+    <img src="./assests/Img.webp" alt="Banner Image" width="856" height="680">
 </p>
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=yshagit31&label=Profile%20views&color=0e75b6&style=flat" alt="yshagit31" /> 
@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Solana Development**
 
-- 💬 Ask me about **React, Node.js, MongoDB**
+- 💬 Ask me about **React, Node, MongoDB**
 
 - 📫 How to reach me **yshashank024@gmail.com**
   
