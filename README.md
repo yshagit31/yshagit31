@@ -11,7 +11,7 @@
 
 <h2 align="center">Blockchain Enthusiast | Problem Solver | Tech Explorer</h2>
 
-- 🔭 I’m currently working on **Three Portfolio**
+- 🔭 I’m currently working on **Three.js Portfolio**
 
 - 🌱 I’m currently learning **Node, Express.js, Three.js, .Net, C#**
 
