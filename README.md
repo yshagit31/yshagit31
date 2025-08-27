@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Three.js Portfolio**
 
-- 🌱 I’m currently learning **Node. js, Express.js, Three.js, .Net, C#**
+- 🌱 I’m currently learning **Node, Express.js, Three.js, .Net, C#**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
